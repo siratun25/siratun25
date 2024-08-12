@@ -1,29 +1,34 @@
+### Hi there 👋, I am Siratun Nahar
+#### A passionate Embedded Systems Engineer
+![A passionate Embedded Systems Engineer](https://i0.wp.com/semiengineering.com/wp-content/uploads/embedded_software_hires.jpeg?w=640&ssl=1)
+
+I am driven by a commitment to innovation and collaboration. I believe that the best solutions emerge when diverse perspectives come together.
+Having worked in embedded system my passion lies in low-power design, real-time systems etc. Moreover, passionate about staying current with emerging technologies. Looking to contribute my skills to innovative projects that push the boundaries of embedded system.
+I'm always open to connecting with fellow professionals in the embedded system community. Let's collaborate on exciting projects or discuss the latest advancements in our field.
+
+Skills: Embedded C/C++, HTML, CSS, PCB design, Schematic design, AVR, ESP32, Firmware development,  SPI, I2C, UART, RS485, HDL, VLSI.
+
+- 🌱 I’m currently learning Industrial IoT, Frontend Web-development 
+- 💬 Ask me about -Microcontroller programming | PCB & Schematic design | Communication protocols |  IoT solutions and sensor integration | Firmware development 
+- ⚡ Fun fact: I enjoy finding creative solutions in embedded systems design. 
 
 
-<h1 align="center">Hi 👋, I'm Siratun Nahar</h1>
-<h3 align="center">A passionate Embedded Systems Engineer</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siratun25)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siratun25&label=Profile%20views&color=0e75b6&style=flat" alt="siratun25" /> </p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- 🌱 I’m currently learning **Industrial IoT, Frontend Web-Development**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=siratun25&show_icons=true)  
 
-- 💬 Ask me about **Firmware development, PCB design, Schematic design, Embedded hardware communication protocols**
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/siratun25/contributions?format=svg&private=false)  
 
-- ⚡ Fun fact **I think I am Friendly**
+![GitHub metrics](https://metrics.lecoq.io/siratun25)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/most. siratun nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="most. siratun nahar" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=siratun25)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siratun25&show_icons=true&locale=en&layout=compact" alt="siratun25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siratun25&show_icons=true&locale=en" alt="siratun25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siratun25&" alt="siratun25" /></p>
+
 
 
 <!---
