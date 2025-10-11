@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siratun25&label=Profile%20views&color=0e75b6&style=flat" alt="siratun25" /> </p>
 
-- 🌱 I’m currently learning **Industrial IoT, Frontend Web-development**
+- 🌱 I’m currently learning **Industrial IoT, AI Embedded, Frontend Web-development**
 
 - 💬 Ask me about **-Microcontroller programming | PCB & Schematic design | Communication protocols | IoT solutions and sensor integration | Firmware development**
 
